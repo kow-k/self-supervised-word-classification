@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+results/.DS_Store
+results/AEFGR/s800/.DS_Store
+results/AEFGR/s800/lda/ntop05/.DS_Store
+results/AEFGR/s800/lda/ntop10/.DS_Store
