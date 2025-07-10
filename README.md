@@ -9,16 +9,16 @@ The idea behind this research is the need for a more realistic reinterpretation 
 3. If classification is successful, this means either character $n$-grams have meaning of their own (possibility A), or topics are not semantic (possibility B).
 4. Even if possibility A cannot be theretically impossible, possibility B is far more likely. (If possibility A is correct, we should be able to describe what character n-grams mean, but who can do that?)
 
+# Jupyter Notebook
+
+- [Jupyter Notebook](run-classification-under-self-supervision.ipynb)
+
+Run was checked on Python 3.10, 3.11 and 3.12.
+
 # Data
 
 - [Data (spell)](data-words-1k-most-common/)
 - [Data (sound)](data-words-opendict-ipa/)
-
-# Jupyter Notebook
-
-- [Jupyter Notebook](LDA-classification-of-words-under-self-supervision.ipynb)
-
-Run was checked on Python 3.10, 3.11 and 3.12.
 
 # Results
 
