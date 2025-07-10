@@ -183,4 +183,4 @@ results/spell/AEFGR/s800/lda/ntop05/.DS_Store
 results/spell/AEFGR/s800/lda/ntop10/.DS_Store
 /.vscode
 *.ipynb
-!word-classification-under-self-supervision.ipynb
+!run-classification-under-self-supervision.ipynb
