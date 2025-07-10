@@ -4,11 +4,12 @@ This repository contains data and Jupyter Notebook to analyze it developed for m
 
 # Data
 
-- [Data](data-words/)
+- [Data (spell)](data-words-1k-most-common/)
+- [Data (sound)](data-words-opendict-ipa/)
 
 # Jupyter Notebook
 
-- [Jupyter Notebook](LDA-word-clustering-self-evaluator.ipynb)
+- [Jupyter Notebook](LDA-classification-of-words-under-self-supervision.ipynb)
 
 Run was checked on Python 3.10, 3.11 and 3.12.
 
