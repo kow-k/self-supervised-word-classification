@@ -182,5 +182,5 @@ results/spell/AEFGR/s800/.DS_Store
 results/spell/AEFGR/s800/lda/ntop05/.DS_Store
 results/spell/AEFGR/s800/lda/ntop10/.DS_Store
 /.vscode
-
-LDA-clustering-with-self-evaluation-old.ipynb
+*.ipynb
+!LDA-clustering-with-self-supervision.ipynb
