@@ -172,6 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# My own
 results/.DS_Store
 results/AEFGR/s800/.DS_Store
 results/AEFGR/s800/lda/ntop05/.DS_Store
@@ -180,3 +182,5 @@ results/spell/AEFGR/s800/.DS_Store
 results/spell/AEFGR/s800/lda/ntop05/.DS_Store
 results/spell/AEFGR/s800/lda/ntop10/.DS_Store
 /.vscode
+
+LDA-clustering-with-self-evaluation-old.ipynb
