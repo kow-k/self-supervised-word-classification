@@ -11,7 +11,7 @@ The idea behind this research is the need for a more realistic reinterpretation 
 
 # Jupyter Notebook
 
-- [Jupyter Notebook](run-classification-under-self-supervision.ipynb)
+- [Jupyter Notebook](classify-words-under-self-supervision.ipynb)
 
 Run was checked on Python 3.10, 3.11 and 3.12.
 
