@@ -184,6 +184,6 @@ results/spell/AEFGR/s800/lda/ntop05/.DS_Store
 results/spell/AEFGR/s800/lda/ntop10/.DS_Store
 /.vscode
 *.ipynb
-!classify-words-under-self-supervision.ipynb
+!classify-words-with-self-supervision.ipynb
 results/spell/AEFGR/s200/lda(labeled)/~$tables-aNA.xlsx
 results/spell/AEFGR/s200/lda(labeled)/~$tables-aNA.xlsx
