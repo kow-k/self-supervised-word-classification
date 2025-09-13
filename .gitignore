@@ -178,4 +178,5 @@ cython_debug/
 /.vscode
 *.ipynb
 !classify-words-with-self-supervision.ipynb
+*.xlsx
 *~$*.xlsx
